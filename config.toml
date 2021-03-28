@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blades in the Dark"
+theme = "timeline"
+
+[params]
+  customCSS = ["css/custom.css"]
